@@ -1,1 +1,1 @@
-ISK23 Tarvara arenduse projekti git repo
+ISK23 Tarvaraarenduse projekti git repo
